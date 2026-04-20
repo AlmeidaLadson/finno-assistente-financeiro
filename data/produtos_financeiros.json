@@ -1,0 +1,59 @@
+{
+  "produtos": [
+    {
+      "id": "PROD-001",
+      "nome": "CDB Progressivo",
+      "tipo": "renda_fixa",
+      "rentabilidade": "110% CDI",
+      "liquidez": "D+1",
+      "investimento_minimo": 1000.00,
+      "risco": "baixo",
+      "prazo_recomendado_meses": 12,
+      "indicado_para": ["conservador", "moderado"]
+    },
+    {
+      "id": "PROD-002",
+      "nome": "Tesouro IPCA+ 2035",
+      "tipo": "tesouro_direto",
+      "rentabilidade": "IPCA + 6,2% a.a.",
+      "liquidez": "D+1",
+      "investimento_minimo": 100.00,
+      "risco": "baixo",
+      "prazo_recomendado_meses": 120,
+      "indicado_para": ["conservador", "moderado", "arrojado"]
+    },
+    {
+      "id": "PROD-003",
+      "nome": "Fundo Multimercado Estratégico",
+      "tipo": "fundo",
+      "rentabilidade": "CDI + 4% a.a. (histórico)",
+      "liquidez": "D+30",
+      "investimento_minimo": 5000.00,
+      "risco": "medio",
+      "prazo_recomendado_meses": 24,
+      "indicado_para": ["moderado", "arrojado"]
+    },
+    {
+      "id": "PROD-004",
+      "nome": "Carteira de Ações Dividendos",
+      "tipo": "renda_variavel",
+      "rentabilidade": "variável (histórico: 14% a.a.)",
+      "liquidez": "D+3",
+      "investimento_minimo": 500.00,
+      "risco": "alto",
+      "prazo_recomendado_meses": 60,
+      "indicado_para": ["arrojado"]
+    },
+    {
+      "id": "PROD-005",
+      "nome": "LCI Habitacional",
+      "tipo": "renda_fixa",
+      "rentabilidade": "95% CDI (isento IR)",
+      "liquidez": "D+90",
+      "investimento_minimo": 2000.00,
+      "risco": "baixo",
+      "prazo_recomendado_meses": 12,
+      "indicado_para": ["conservador", "moderado"]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+data,descricao,categoria,valor,tipo
+2025-04-01,Salário abril,receita,12000.00,credito
+2025-04-02,Aluguel,moradia,-2800.00,debito
+2025-04-03,Supermercado Pão de Açúcar,alimentacao,-620.00,debito
+2025-04-05,Aporte CDB Progressivo,investimento,-1500.00,debito
+2025-04-08,Conta de luz,utilidades,-180.00,debito
+2025-04-10,Restaurante,alimentacao,-95.00,debito
+2025-04-12,Streaming (planos),lazer,-85.00,debito
+2025-04-15,Transferência reserva emergência,investimento,-500.00,debito
+2025-04-18,Farmácia,saude,-210.00,debito
+2025-04-20,Combustível,transporte,-320.00,debito
+2025-04-22,Academia,saude,-120.00,debito
+2025-04-25,Supermercado,alimentacao,-430.00,debito
+2025-04-28,Rendimento CDB,investimento,138.50,credito
+2025-04-30,Internet e celular,utilidades,-220.00,debito
+2025-03-01,Salário março,receita,12000.00,credito
+2025-03-03,Aluguel,moradia,-2800.00,debito
+2025-03-05,Supermercado,alimentacao,-580.00,debito
+2025-03-10,Aporte Tesouro IPCA+,investimento,-2000.00,debito
+2025-03-15,Restaurante,alimentacao,-140.00,debito
+2025-03-20,Combustível,transporte,-280.00,debito
+2025-03-28,Rendimento CDB,investimento,132.00,credito

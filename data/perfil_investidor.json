@@ -1,0 +1,35 @@
+{
+  "cliente": {
+    "id": "CLT-20419",
+    "nome": "Carlos Eduardo Motta",
+    "idade": 34,
+    "profissao": "Engenheiro de Software",
+    "renda_mensal": 12000.00,
+    "patrimonio_total": 87500.00,
+    "perfil_risco": "moderado",
+    "objetivo_principal": "aposentadoria",
+    "horizonte_investimento_anos": 25,
+    "tolerancia_volatilidade": "media",
+    "experiencia_investimentos": "intermediario"
+  },
+  "preferencias": {
+    "temas_interesse": ["renda fixa", "fundos multimercado", "acoes nacionais"],
+    "aversoes": ["criptomoedas", "derivativos complexos"],
+    "canal_preferido": "digital",
+    "frequencia_acompanhamento": "mensal"
+  },
+  "metas": [
+    {
+      "descricao": "Reserva de emergência",
+      "valor_alvo": 36000.00,
+      "valor_atual": 24000.00,
+      "prazo_meses": 6
+    },
+    {
+      "descricao": "Aposentadoria",
+      "valor_alvo": 2000000.00,
+      "valor_atual": 63500.00,
+      "prazo_anos": 25
+    }
+  ]
+}
