@@ -1,0 +1,35 @@
+# Credenciais e variáveis de ambiente
+.env
+.env.*
+!.env.example
+
+# Dados sensíveis — nunca versionar arquivos reais de clientes
+# Os arquivos em data/ são apenas exemplos fictícios para demonstração.
+# Em produção, mova dados reais para fora do repositório.
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
