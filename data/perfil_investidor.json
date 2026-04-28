@@ -1,9 +1,9 @@
 {
   "cliente": {
-    "id": "CLT-20419",
-    "nome": "Carlos Eduardo Motta",
+    "id": "CLT-00001",
+    "nome": "Cliente Exemplo",
     "idade": 34,
-    "profissao": "Engenheiro de Software",
+    "profissao": "Profissional Liberal",
     "renda_mensal": 12000.00,
     "patrimonio_total": 87500.00,
     "perfil_risco": "moderado",
